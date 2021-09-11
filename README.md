@@ -4,7 +4,7 @@
 # piratesec_DDOS
 just a simple little ddos tool enjoy it :)
 
-MacOS installation/Linux installation 
+MacOS installation/Linux installation along with Termux aswell
 <pre>
 1. git clone https://github.com/P1ratesec/piratesec_DDOS 
 2. cd piratesec_DDOS  
