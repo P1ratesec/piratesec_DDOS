@@ -16,9 +16,9 @@ please be free to dm me on insta at https://www.instagram.com/pirate_sec/.
 Plus i am not responsible for any crimes you commit while using this tool use it at your own will.
 
   <a href="https://cooltext.com"><img src="https://images.cooltext.com/5551885.gif" width="251" height="91" alt="D.D.O.S" /></a>
-<pre>
-                        
-                                      .                   .
+  
+  
+<pre>                                
                               _..-''"""\          _.--'"""\
                               |         L         |        \
                   _           / _.-.---.\.        / .-.----.\
@@ -44,9 +44,4 @@ Plus i am not responsible for any crimes you commit while using this tool use it
          J------------(___\__/'_____.--------'-------'""""""""           /
          `-.                                        _.__.__.__.____     J_.-._
     .'`-._ (-`--`---.'--._`---._.-'`-._.-'_.-'``-._'               `-''-'
-
-
-
-
-
 </pre>
