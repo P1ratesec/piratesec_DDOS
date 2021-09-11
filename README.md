@@ -1,3 +1,4 @@
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5551885.gif" width="251" height="91" alt="Welcome" /></a>
 <img width="928" alt="Screen Shot 2021-09-11 at 5 58 53 PM" src="https://user-images.githubusercontent.com/90520934/132956257-083017ba-0d36-4041-a2f0-fdfad6b530de.png">
 # piratesec_DDOS
 just a simple little ddos tool enjoy it :)
