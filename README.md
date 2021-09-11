@@ -45,4 +45,4 @@ Plus i am not responsible for any crimes you commit while using this tool use it
          `-.                                        _.__.__.__.____     J_.-._
     .'`-._ (-`--`---.'--._`---._.-'`-._.-'_.-'``-._'               `-''-'
 </pre>
-<iframe src="https://giphy.com/embed/SGVtPvjNK5tIxwXKio" width="480" height="356" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/canbonomo-rock-rocknroll-bonomo-SGVtPvjNK5tIxwXKio">via GIPHY</a></p>
+
