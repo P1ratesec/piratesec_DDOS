@@ -1,6 +1,4 @@
-body {
-		background-image: url("https://media.giphy.com/media/fl4KKpTJ89G7XTYjGJ/giphy.gif"); 
-		background-color: #000000; 
+
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5551886.gif" width="340" height="95" alt="Weclome" /></a>
 <img width="928" alt="Screen Shot 2021-09-11 at 5 58 53 PM" src="https://user-images.githubusercontent.com/90520934/132956257-083017ba-0d36-4041-a2f0-fdfad6b530de.png">
 # piratesec_DDOS
@@ -18,4 +16,10 @@ please be free to dm me on insta at https://www.instagram.com/pirate_sec/.
 Plus i am not responsible for any crimes you commit while using this tool use it at your own will.
 
   <a href="https://cooltext.com"><img src="https://images.cooltext.com/5551885.gif" width="251" height="91" alt="D.D.O.S" /></a>
-                
+<pre>
+,______________________________________       
+|_________________,----------._ [____]  ""-,__  __....-----=====
+               (_(||||||||||||)___________/   ""                |
+                  `----------' Krogg98[ ))"-,                   |
+                                       ""    `,  _,--....___    |
+                                               `/           """" </pre>
