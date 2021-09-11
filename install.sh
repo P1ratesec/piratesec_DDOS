@@ -14,7 +14,7 @@ echo "2) Exit"
 read -p ">> " resp
 if [ "$resp" == "$var1" ]
 then
-python biyivi_ddos.py
+python pirate.sec.py
 else
 echo "to start the script you must write: python3 piratesec_DDOS.py "
 echo ":D"
