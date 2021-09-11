@@ -16,6 +16,6 @@ if [ "$resp" == "$var1" ]
 then
 python pirate.sec.py
 else
-echo "to start the script you must write: python3 piratesec_DDOS.py "
+echo "to start the script you must write: python3 pirate.sec.py "
 echo ":D"
 fi 
