@@ -13,5 +13,5 @@ and also if you hate bight colours or have epilepsy dont install this tool lol. 
 please be free to dm me on insta at https://www.instagram.com/pirate_sec/.
 Plus i am not responsible for any crimes you commit while using this tool use it at your own will.
 
-  <a href="https://cooltext.com"><img src="https://images.cooltext.com/5551814.gif" width="485" height="106" alt="#OpGloriavale " /></a>
+  <a href="https://cooltext.com"><img src="https://images.cooltext.com/5551885.gif" width="251" height="91" alt="D.D.O.S" /></a>
                 
