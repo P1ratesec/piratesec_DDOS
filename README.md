@@ -45,4 +45,7 @@ Plus i am not responsible for any crimes you commit while using this tool use it
          `-.                                        _.__.__.__.____     J_.-._
     .'`-._ (-`--`---.'--._`---._.-'`-._.-'_.-'``-._'               `-''-'
 </pre>
+body{
+<style>{background-color: #000000;
 <img src=https://animated.name/uploads/posts/2016-08/1471352586_799.gif>
+           </style>
