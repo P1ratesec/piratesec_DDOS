@@ -11,3 +11,12 @@ This is a beta version more update's will be made soon thanks :) and i hope you 
 and also if you hate bight colours or have epilepsy dont install this tool lol. If you want to suggest more changes to this tool 
 please be free to dm me on insta at https://www.instagram.com/pirate_sec/.
 Plus i am not responsible for any crimes you commit while using this tool use it at your own will.
+
+
+ ,______________________________________       
+|_________________,----------._ [____]  ""-,__  __....-----=====
+               (_(||||||||||||)___________/   ""                |
+                  `----------'        [ ))"-,                   |
+                                       ""    `,  _,--....___    |
+                                               `/           """"
+do you like my gun :3 
